@@ -17,15 +17,23 @@ This is the **monorepo** for our ZK-Werewolf hackathon project — a cryptograph
 
 It consists of three core components:
 
--   🔐 [**noirhack-neff-shuffle**](https://github.com/lorta04/noirhack-neff-shuffle)
+- 🔐 [**noirhack-neff-shuffle**](https://github.com/lorta04/noirhack-neff-shuffle)
 
-    The heart of this project — a fully verifiable shuffle and decryption protocol using **Noir**. It enables trustless, game-masterless role assignment, private role reveals, and role-based action proofs (like peeking or killing).  
-    ➤ [**Start here if you're looking for the zero-knowledge magic.**](https://github.com/lorta04/noirhack-neff-shuffle)
-    
--   🎮 [**noirhack-game-engine**](https://github.com/NuttakitDW/noirhack-game-engine)
+  The heart of this project — a fully verifiable shuffle and decryption protocol using **Noir**. It enables trustless, game-masterless role assignment, private role reveals, and role-based action proofs (like peeking or killing).  
+  ➤ [**Start here if you're looking for the zero-knowledge magic.**](https://github.com/lorta04/noirhack-neff-shuffle)
 
-    A rule-based engine that drives the full game flow — including shuffling, private role reveals, and in-game actions like **voting**, **peeking**, and **killing**. It integrates directly with ZK circuit proofs to ensure every step is verifiable, and handles turn transitions, action validation, and game state progression.
-    
--   🧠 [**noirhack-backend**](https://github.com/NuttakitDW/noirhack-noir-werewolf)
+- 🎮 [**noirhack-game-engine**](https://github.com/NuttakitDW/noirhack-game-engine)
 
-    A minimal TypeScript backend (Bun + Elysia) that simplifies ZK circuit execution and proof lifecycle management. It acts as a stateless **ZK engine**, providing REST endpoints for generating and verifying proofs during gameplay.
+  A rule-based engine that drives the full game flow — including shuffling, private role reveals, and in-game actions like **voting**, **peeking**, and **killing**. It integrates directly with ZK circuit proofs to ensure every step is verifiable, and handles turn transitions, action validation, and game state progression.
+
+- 🧠 [**noirhack-backend**](https://github.com/NuttakitDW/noirhack-noir-werewolf)
+
+  A minimal TypeScript backend (Bun + Elysia) that simplifies ZK circuit execution and proof lifecycle management. It acts as a stateless **ZK engine**, providing REST endpoints for generating and verifying proofs during gameplay.
+
+## 👥 Team
+
+Built with curiosity, hopes, and dreams by:
+
+- 🧠 [**@NuttakitDW**](https://github.com/NuttakitDW) — `nuttakit-vy`
+- 🔐 [**@lorta04**](https://github.com/lorta04) — `latta04`
+- 🎮 [**@JFKongphop**](https://github.com/JFKongphop) — `JFKongphop`
