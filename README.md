@@ -24,7 +24,7 @@ It consists of three core components:
 
 - 🎮 [**noirhack-game-engine**](https://github.com/NuttakitDW/noirhack-game-engine)
 
-  A rule-based engine that drives the full game flow — including shuffling, private role reveals, and in-game actions like **voting**, **peeking**, and **killing**. It integrates directly with ZK circuit proofs to ensure every step is verifiable, and handles turn transitions, action validation, and game state progression.
+  A rule-based engine that drives the core game flow — including **shuffling**, **private role reveals**, and in-game actions like **peeking** and **killing**. It integrates directly with ZK circuit proofs to ensure each step is verifiable. But **voting** and **role-of-the-dead announcements** are not yet implemented.
 
 - 🧠 [**noirhack-backend**](https://github.com/NuttakitDW/noirhack-noir-werewolf)
 
