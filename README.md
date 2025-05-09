@@ -13,7 +13,7 @@
 
 ## 🧭 Overview
 
-This is the **monorepo** for our ZK-Werewolf hackathon project — a cryptographic twist on the classic hidden-role game **Werewolf**, powered by **Noir** for zero-knowledge proofs, a **Bun + Elysia** backend for proof orchestration, and a **Unity**-driven game engine for interactive multiplayer gameplay.
+This is the **monorepo** for our Noir Werewolf hackathon project — a cryptographic twist on the classic hidden-role game **Werewolf**, powered by **Noir** for zero-knowledge proofs, a **Bun + Elysia** backend for proof orchestration, and a **Unity**-driven game engine for interactive multiplayer gameplay.
 
 It consists of three core components:
 
@@ -34,6 +34,6 @@ It consists of three core components:
 
 Built with curiosity, hopes, and dreams by:
 
-- 🧠 [**@NuttakitDW**](https://github.com/NuttakitDW) — `nuttakit-vy`
+- 🎮 [**@NuttakitDW**](https://github.com/NuttakitDW) — `nuttakit-vy`
 - 🔐 [**@lorta04**](https://github.com/lorta04) — `latta04`
-- 🎮 [**@JFKongphop**](https://github.com/JFKongphop) — `JFKongphop`
+- 🧠 [**@JFKongphop**](https://github.com/JFKongphop) — `JFKongphop`
