@@ -1,0 +1,9 @@
+[submodule "noirhack-neff-shuffle"]
+	path = noirhack-neff-shuffle
+	url = https://github.com/lorta04/noirhack-neff-shuffle
+[submodule "noirhack-game-engine"]
+	path = noirhack-game-engine
+	url = https://github.com/NuttakitDW/noirhack-game-engine
+[submodule "noirhack-backend"]
+	path = noirhack-backend
+	url = https://github.com/NuttakitDW/noirhack-backend
