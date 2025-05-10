@@ -26,7 +26,7 @@ It consists of three core components:
 
   A rule-based engine that drives the core game flow — including **shuffling**, **private role reveals**, and in-game actions like **peeking** and **killing**. It integrates directly with ZK circuit proofs to ensure each step is verifiable. But **voting** and **role-of-the-dead announcements** are not yet implemented.
 
-- 🧠 [**noirhack-backend**](https://github.com/NuttakitDW/noirhack-noir-werewolf)
+- 🧠 [**noirhack-backend**](https://github.com/NuttakitDW/noirhack-backend/tree/main)
 
   A minimal TypeScript backend (Bun + Elysia) that simplifies ZK circuit execution and proof lifecycle management. It acts as a stateless **ZK engine**, providing REST endpoints for generating and verifying proofs during gameplay.
 
