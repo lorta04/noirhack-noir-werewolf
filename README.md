@@ -40,4 +40,4 @@ Built with curiosity, hopes, and dreams by:
 
 ## 🎥 Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/zGhbYbQ_60E/hqdefault.jpg)](https://youtu.be/zGhbYbQ_60E)
+[![Watch the video](https://img.youtube.com/vi/RdLtewERano/hqdefault.jpg)](https://youtu.be/RdLtewERano)
